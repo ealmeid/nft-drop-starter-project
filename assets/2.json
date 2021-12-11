@@ -1,0 +1,19 @@
+{
+  "name": "Strawberry",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "89fUupuWA8bmtJpNFveYYpUcFrNqry1TYZJLcCDu9dR6",
+        "share": 100
+      }
+    ]
+  }
+}
